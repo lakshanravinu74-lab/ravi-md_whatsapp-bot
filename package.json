@@ -1,0 +1,39 @@
+{
+  "name": "ravi-md-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Enterprise-grade WhatsApp Bot Framework developed by Ravinu Lakshan",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "production": "NODE_ENV=production node index.js",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "keywords": [
+    "whatsapp-bot",
+    "whatsapp-web.js",
+    "production-ready",
+    "huggingface-space",
+    "docker",
+    "ravinu"
+  ],
+  "author": "Ravinu Lakshan <lakshanravinu74-lab>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.26.0"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "npm": ">=9.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshanravinu74-lab/ravi-md-whatsapp-bot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lakshanravinu74-lab/ravi-md-whatsapp-bot/issues"
+  },
+  "homepage": "https://github.com/lakshanravinu74-lab/ravi-md-whatsapp-bot#readme"
+}
